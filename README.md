@@ -6,6 +6,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="./assets/life-is.png" alt="Life is" width="100%" />
+</p>
+
 <img src="https://i.pinimg.com/originals/e0/93/3c/e0933cfe30da2c82232d339dc0e64eb6.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
