@@ -6,11 +6,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="./assets/life-is.png" alt="Life is" width="100%" />
-</p>
-
-<img src="https://i.pinimg.com/originals/e0/93/3c/e0933cfe30da2c82232d339dc0e64eb6.gif" alt="Banner" width="100%" />
+<img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - 💻 Aspiring Full-Stack & Backend Developer
@@ -51,12 +47,12 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/rupesh-kumar-sah">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rupesh-kumar-sah&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="rupesh-kumar-sah's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rupesh-kumar-sah&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="rupesh-kumar-sah's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=rupesh-kumar-sah&theme=nightowl&hide_border=true&cache_seconds=86400" alt="rupesh-kumar-sah's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=rupesh-kumar-sah&theme=dracula&hide_border=true&cache_seconds=86400" alt="rupesh-kumar-sah's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=rupesh-kumar-sah&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Rupesh Kumar Sah's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=rupesh-kumar-sah&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Rupesh Kumar Sah's GitHub Trophies" />
 </p>
 
 
@@ -116,7 +112,7 @@
 
 <p align="center">
   <a href="https://github.com/rupesh-kumar-sah">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rupesh-kumar-sah&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rupesh-kumar-sah&langs_count=8&layout=compact&theme=dracula&border_radius=10" alt="Top Languages" />
   </a>
 </p>
 
