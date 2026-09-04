@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="background: #020c1b; border: 1px solid rgba(57,211,83,0.25); border-radius: 18px; padding: 18px 12px; box-shadow: 0 0 28px rgba(57,211,83,0.08);">
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--            1. LIVE TERMINAL — NEOFETCH                     -->
