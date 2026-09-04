@@ -1,4 +1,4 @@
-<div align="center" style="background: #020c1b; border: 1px solid rgba(57,211,83,0.25); border-radius: 18px; padding: 18px 12px; box-shadow: 0 0 28px rgba(57,211,83,0.08);">
+<div align="center" style="background: #020c1b; border: 1px solid rgba(57,211,83,0.2); border-radius: 18px; padding: 18px 12px; box-shadow: 0 0 22px rgba(57,211,83,0.06);">
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--            1. LIVE TERMINAL — NEOFETCH                     -->
@@ -237,16 +237,6 @@
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
 </a>
 &nbsp;
-<a href="https://www.facebook.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-Rupesh-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=000000" />
-</a>
-&nbsp;
-<a href="https://www.instagram.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%40rupesh-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" />
-</a>
-
-<br/><br/>
-
 <a href="mailto:rsah0123456@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
 </a>
