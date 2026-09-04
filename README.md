@@ -25,7 +25,7 @@
 <!--            2. CINEMATIC HEADER                             -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:020c1b,60:041a0e,80:072b16,100:0d3b20&height=300&section=header&text=Rupesh%20Kumar%20Sah&fontSize=64&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Computer%20Engineer%20%E2%80%A2%20Full-Stack%20%26%20Backend%20Developer&descAlignY=60&descSize=17&descFontColor=39d353&animation=fadeIn&stroke=39d353&strokeWidth=1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:020c1b,60:041a0e,80:072b16,100:0d3b20&height=300&section=header&text=Rupesh%20Kumar%20Sah&fontSize=64&fontColor=39D353" />
 
 <br/>
 
@@ -37,7 +37,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=3000&pause=1000&color=39D353&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=52&lines=Building+scalable+backend+and+full-stack+products;Designing+secure+database-driven+applications;Turning+ideas+into+real-world+software+solutions;PHP+%26+Laravel+%7C+Python+%26+Django+%7C+Node.js;Clean+code.+Inventive+systems.+Reliable+delivery." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=3000&pause=1000&color=39D353&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Full+Stack+Engineer;Building+reliable%2C+scalable+web+%26+mobile+products" />
 
 <br/><br/>
 
@@ -262,7 +262,7 @@
 </td>
 <td align="center" valign="middle">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=4000&pause=1500&color=39D353&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=52&lines=Thanks+for+stopping+by%21;Let%27s+connect+and+build+together.;Every+great+product+starts+with+a+conversation." alt="Footer typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=4000&pause=1500&color=39D353&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=420&lines=Open+to+new+roles;Let%27s+build+something+beautiful" />
 
 </td>
 </tr>
@@ -272,6 +272,12 @@
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:020c1b,80:041a0e,100:0d3b20&height=160&section=footer&text=%22Write+code+that+works.+Then+write+code+that+lasts.%22&fontSize=15&fontColor=39d353&fontAlignY=68&animation=fadeIn&reversal=true" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:020c1b,80:041a0e,100:0d3b20&height=160&section=footer&text=%22Write+code+that+works.+Then+write+code+that+lasts.%22&fontColor=39D353" />
 
 </div>
+
+<!--
+INSTRUCTIONS:
+- Add generated assets to the repo: hxni-ascii.svg, info-card.svg, contrib-heatmap.svg.
+- If you want, I can also add the helper scripts (prep_photo.py, make_ascii_svg.py, fetch_contributions.py, render_heatmap_svg.py) and a GitHub Actions workflow to auto-update the heatmap daily.
+-->
