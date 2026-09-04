@@ -69,38 +69,38 @@
 <table border="0">
   <tr>
     <td align="center" width="50%">
-      <a href="https://lexicon-books.onrender.com/" target="_blank">
-        <img src="https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=900&q=80" width="100%" />
+      <a href="https://github.com/rupesh-kumar-sah/hospital-real-one" target="_blank">
+        <img src="https://images.unsplash.com/photo-1584515933487-779824d29309?auto=format&fit=crop&w=900&q=80" width="100%" />
       </a>
       <br/>
-      <b>Lexicon Books</b><br/>
-      <sub>Digital book showcase and reading experience</sub>
+      <b>hospital-real-one</b><br/>
+      <sub>Healthcare management and patient operations platform</sub>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/rupesh-kumar-sah" target="_blank">
-        <img src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=900&q=80" width="100%" />
+      <a href="https://github.com/rupesh-kumar-sah/kheti-pro" target="_blank">
+        <img src="https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=900&q=80" width="100%" />
       </a>
       <br/>
-      <b>GitHub Playground</b><br/>
-      <sub>Code experiments, APIs, and project builds</sub>
+      <b>kheti-pro</b><br/>
+      <sub>Agri-tech platform focused on farming workflows and growth</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/rupesh-kumar-sah" target="_blank">
-        <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=900&q=80" width="100%" />
+      <a href="https://github.com/rupesh-kumar-sah/lexicon-books-" target="_blank">
+        <img src="https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=900&q=80" width="100%" />
       </a>
       <br/>
-      <b>Backend Systems</b><br/>
-      <sub>Scalable logic, APIs, and clean architecture</sub>
+      <b>lexicon-books-</b><br/>
+      <sub>Books selling app and digital reading storefront</sub>
     </td>
     <td align="center" width="50%">
-      <a href="https://www.linkedin.com/in/rupeshkumarsah/" target="_blank">
-        <img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=900&q=80" width="100%" />
+      <a href="https://github.com/rupesh-kumar-sah/shoppingnp" target="_blank">
+        <img src="https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=900&q=80" width="100%" />
       </a>
       <br/>
-      <b>Professional Network</b><br/>
-      <sub>Collaborations, product thinking, and growth</sub>
+      <b>shoppingnp</b><br/>
+      <sub>E-commerce platform for online shopping experiences</sub>
     </td>
   </tr>
 </table>
