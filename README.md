@@ -1,81 +1,287 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Rupesh%20Kumar%20Sah&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Computer%20Engineer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%" alt="Cinematic banner" />
-</div>
 
-<p align="center">
-  <a href="https://github.com/rupesh-kumar-sah">
-    <img src="https://komarev.com/ghpvc/?username=rupesh-kumar-sah&label=Profile%20views&color=00FFFF&style=flat-square" alt="Profile views" />
-  </a>
-  <img src="https://img.shields.io/badge/Open%20to%20work-00c853?style=flat-square" alt="Open to work" />
-  <img src="https://img.shields.io/badge/Kathmandu%2C%20Nepal-111111?style=flat-square&logo=googlemaps&logoColor=white" alt="Kathmandu, Nepal" />
-</p>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--            1. LIVE TERMINAL — NEOFETCH                     -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<h1 align="center">Hi, I’m Rupesh Kumar Sah</h1>
-<h3 align="center"><code>Computer Engineer • Full-Stack & Backend Developer</code></h3>
+<h3><code>The Cipher Stack</code></h3>
 
 <table>
   <tr>
-    <td width="45%" valign="top">
-      <img src="./hxni-ascii.svg" width="100%" alt="ASCII portrait" />
+    <td valign="top">
+      <img src="./hxni-ascii.svg" width="370" alt="Rupesh ASCII portrait" />
     </td>
-    <td width="55%" valign="top">
-      <img src="./info-card.svg" width="100%" alt="System info card" />
+    <td valign="top">
+      <img src="./info-card.svg" width="490" alt="system info" />
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=700&color=D4AF37&center=true&vCenter=true&width=700&lines=Building+scalable+apps+with+clean+architecture;Designing+secure%2C+efficient+backend+systems;Turning+ideas+into+real-world+software+products" alt="Typing animation" />
-</p>
+<br/>
 
-<h3><code>About Me</code></h3>
+---
 
-- 💻 Full-stack and backend developer focused on building secure, scalable, real-world products.
-- 🐘 PHP & Laravel, 🐍 Python & Django, ⚙️ Node.js, 🗄️ MySQL & PostgreSQL, 📱 React Native.
-- 🎨 UI/UX-aware engineering with strong emphasis on clean code and system design.
-- 🧠 Passionate about DSA, software architecture, networking, Linux, and intelligent product building.
-- 📍 Kathmandu, Nepal
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--            2. CINEMATIC HEADER                             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<h3><code>Tech Arsenal</code></h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:020c1b,60:041a0e,80:072b16,100:0d3b20&height=300&section=header&text=Rupesh%20Kumar%20Sah&fontSize=64&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Computer%20Engineer%20%E2%80%A2%20Full-Stack%20%26%20Backend%20Developer&descAlignY=60&descSize=17&descFontColor=39d353&animation=fadeIn&stroke=39d353&strokeWidth=1" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,python,django,nodejs,react,html,css,tailwind" alt="Web stack" />
-  <br /><br />
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,java,cpp,c,git,github,linux,vscode,figma,vite" alt="Tools and databases" />
-</p>
+<br/>
 
-<h3><code>Currently Building</code></h3>
+<img src="https://komarev.com/ghpvc/?username=rupesh-kumar-sah&style=for-the-badge&color=0d3b20&label=PROFILE+VIEWS&labelColor=000000" />
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-39d353?style=for-the-badge&labelColor=000000&logo=checkmarx&logoColor=39d353" />
+&nbsp;
+<img src="https://img.shields.io/badge/BASED-Kathmandu%2C%20Nepal-ffffff?style=for-the-badge&labelColor=000000" />
 
-| Area | Focus |
-|---|---|
-| Backend | APIs, secure architecture, database-driven systems |
-| Web | Product-ready interfaces and full-stack workflows |
-| Mobile | Cross-platform app experiences with React Native |
-| Learning | DSA, system design, networking, and backend optimization |
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=3000&pause=1000&color=39D353&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=52&lines=Building+scalable+backend+and+full-stack+products;Designing+secure+database-driven+applications;Turning+ideas+into+real-world+software+solutions;PHP+%26+Laravel+%7C+Python+%26+Django+%7C+Node.js;Clean+code.+Inventive+systems.+Reliable+delivery." alt="Typing SVG" />
+
+<br/><br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--            3. LIVE TERMINAL — CONTRIBUTIONS                -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <h3><code>Contributions</code></h3>
 
-<img src="./contrib-heatmap.svg" width="860" alt="Contribution heatmap" />
+<img src="./contrib-heatmap.svg" width="860" alt="contribution heatmap" />
 
-<h3><code>Achievements</code></h3>
+<br/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rupesh-kumar-sah&theme=onedark&no-frame=true&no-bg=true&margin-w=8" alt="GitHub trophies" />
-</p>
+---
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    FEATURED GALLERY                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### Featured Gallery — The Best of Rupesh
+<br/>
+
+<table border="0">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://lexicon-books.onrender.com/" target="_blank">
+        <img src="https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=900&q=80" width="100%" />
+      </a>
+      <br/>
+      <b>Lexicon Books</b><br/>
+      <sub>Digital book showcase and reading experience</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/rupesh-kumar-sah" target="_blank">
+        <img src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=900&q=80" width="100%" />
+      </a>
+      <br/>
+      <b>GitHub Playground</b><br/>
+      <sub>Code experiments, APIs, and project builds</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/rupesh-kumar-sah" target="_blank">
+        <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=900&q=80" width="100%" />
+      </a>
+      <br/>
+      <b>Backend Systems</b><br/>
+      <sub>Scalable logic, APIs, and clean architecture</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://www.linkedin.com/in/rupeshkumarsah/" target="_blank">
+        <img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=900&q=80" width="100%" />
+      </a>
+      <br/>
+      <b>Professional Network</b><br/>
+      <sub>Collaborations, product thinking, and growth</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    TECH ARSENAL                           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### Tech Arsenal
+<br/>
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+<strong>Frontend and 3D</strong>
+
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,threejs&theme=dark&perline=7" />
+
+</td>
+<td align="center" width="50%">
+
+<strong>Backend and Data</strong>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,django,mysql,postgres&theme=dark&perline=7" />
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+<strong>Mobile</strong>
+
+<img src="https://skillicons.dev/icons?i=react,androidstudio&theme=dark&perline=7" />
+<br/><sub><sup>React Native</sup></sub>
+
+</td>
+<td align="center">
+
+<strong>Tools and DevOps</strong>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman,linux,vercel&theme=dark&perline=7" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--               CURRENTLY BUILDING                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+### What I Am Up To
+
+<table>
+<tr>
+<td><b>Currently Building</b></td>
+<td>Full-stack web and mobile products with clean architecture and real-world business logic</td>
+</tr>
+<tr>
+<td><b>Currently Learning</b></td>
+<td>Advanced backend design, secure systems, performance tuning, and software scalability</td>
+</tr>
+<tr>
+<td><b>Ask Me About</b></td>
+<td>API design, database workflows, Laravel/Django architecture, and full-stack product engineering</td>
+</tr>
+<tr>
+<td><b>Fun Fact</b></td>
+<td>I enjoy turning messy requirements into systems that are stable, practical, and easy to scale</td>
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  GITHUB ACHIEVEMENTS                      -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### GitHub Achievements
+<br/>
+
+<table border="0">
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="80" /><br/>
+      <b>Pair Extraordinaire</b><br/>
+      <sub>Co-authored commits</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" /><br/>
+      <b>Pull Shark</b><br/>
+      <sub>Merged pull requests</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" /><br/>
+      <b>YOLO</b><br/>
+      <sub>Merged without review</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="80" /><br/>
+      <b>Starstruck</b><br/>
+      <sub>Repo with 16+ stars</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    CONNECT SECTION                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
 
 <h3><code>Socials</code></h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rupeshkumarsah/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:rsah0123456@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://lexicon-books.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://github.com/rupesh-kumar-sah"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://quickchart.io/qr?text=https%3A%2F%2Flexicon-books.onrender.com%2F&size=220">
-    <img src="https://quickchart.io/qr?text=https%3A%2F%2Flexicon-books.onrender.com%2F&size=180" width="140" alt="Portfolio QR code" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/rupeshkumarsah/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
+</a>
+&nbsp;
+<a href="https://www.facebook.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-Rupesh-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=000000" />
+</a>
+&nbsp;
+<a href="https://www.instagram.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%40rupesh-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" />
+</a>
 
-<p align="center"><em>Build with purpose. Ship with clarity.</em></p>
+<br/><br/>
+
+<a href="mailto:rsah0123456@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
+</a>
+&nbsp;
+<a href="https://github.com/rupesh-kumar-sah" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Follow-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+</a>
+&nbsp;
+<a href="https://lexicon-books.onrender.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Live%20Site-39d353?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" />
+</a>
+
+<br/><br/>
+
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td align="center" valign="middle" width="180">
+
+<strong>Scan my Portfolio</strong>
+
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https://lexicon-books.onrender.com/&color=39d353&bgcolor=020c1b&margin=8" alt="Portfolio QR Code" width="140" />
+
+</td>
+<td align="center" valign="middle">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=4000&pause=1500&color=39D353&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=52&lines=Thanks+for+stopping+by%21;Let%27s+connect+and+build+together.;Every+great+product+starts+with+a+conversation." alt="Footer typing" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:020c1b,80:041a0e,100:0d3b20&height=160&section=footer&text=%22Write+code+that+works.+Then+write+code+that+lasts.%22&fontSize=15&fontColor=39d353&fontAlignY=68&animation=fadeIn&reversal=true" />
+
+</div>
