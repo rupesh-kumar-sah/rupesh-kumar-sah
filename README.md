@@ -69,38 +69,38 @@
 <table border="0">
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/rupesh-kumar-sah/hospital-real-one" target="_blank">
-        <img src="https://images.unsplash.com/photo-1584515933487-779824d29309?auto=format&fit=crop&w=900&q=80" width="100%" />
+      <a href="https://medicare-hms-frontend-green.vercel.app" target="_blank">
+        <img src="https://image.thum.io/get/width/1000/crop/700/https://medicare-hms-frontend-green.vercel.app" width="100%" />
       </a>
       <br/>
       <b>hospital-real-one</b><br/>
-      <sub>Healthcare management and patient operations platform</sub>
+      <sub>Healthcare management and patient operations platform</sub><br/><a href="https://github.com/rupesh-kumar-sah/hospital-real-one">View source repository</a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/rupesh-kumar-sah/kheti-pro" target="_blank">
-        <img src="https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=900&q=80" width="100%" />
+      <a href="https://kheti-pro.vercel.app" target="_blank">
+        <img src="https://image.thum.io/get/width/1000/crop/700/https://kheti-pro.vercel.app" width="100%" />
       </a>
       <br/>
       <b>kheti-pro</b><br/>
-      <sub>Agri-tech platform focused on farming workflows and growth</sub>
+      <sub>Agri-tech platform focused on farming workflows and growth</sub><br/><a href="https://github.com/rupesh-kumar-sah/kheti-pro">View source repository</a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/rupesh-kumar-sah/lexicon-books-" target="_blank">
-        <img src="https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=900&q=80" width="100%" />
+      <a href="https://lexicon-books.vercel.app" target="_blank">
+        <img src="https://image.thum.io/get/width/1000/crop/700/https://lexicon-books.vercel.app" width="100%" />
       </a>
       <br/>
       <b>lexicon-books-</b><br/>
-      <sub>Books selling app and digital reading storefront</sub>
+      <sub>Books selling app and digital reading storefront</sub><br/><a href="https://github.com/rupesh-kumar-sah/lexicon-books-">View source repository</a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/rupesh-kumar-sah/shoppingnp" target="_blank">
-        <img src="https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=900&q=80" width="100%" />
+        <img src="https://image.thum.io/get/width/1000/crop/700/https://github.com/rupesh-kumar-sah/shoppingnp" width="100%" />
       </a>
       <br/>
       <b>shoppingnp</b><br/>
-      <sub>E-commerce platform for online shopping experiences</sub>
+      <sub>E-commerce platform for online shopping experiences</sub><br/><a href="https://github.com/rupesh-kumar-sah/shoppingnp">View source repository</a>
     </td>
   </tr>
 </table>
