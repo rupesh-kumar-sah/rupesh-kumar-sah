@@ -2,16 +2,16 @@
 <title>The Cipher Stack profile information</title>
 <rect width="100%" height="100%" rx="14" fill="#0d0d0d" stroke="#D4AF37" stroke-width="2"/>
 <circle cx="24" cy="25" r="6" fill="#ff5f56"/><circle cx="44" cy="25" r="6" fill="#ffbd2e"/><circle cx="64" cy="25" r="6" fill="#27c93f"/>
-<text x="90" y="30" fill="#D4AF37" font-family="monospace" font-size="16">The Cipher Stack</text>
+<text x="90" y="31" fill="#D4AF37" font-family="Courier New, monospace" font-size="16" font-weight="bold">The Cipher Stack - Rupesh Kumar Sah</text>
 <line x1="24" y1="52" x2="596" y2="52" stroke="#343434"/>
-<g class="row" style="animation-delay:0ms"><text x="28" y="92" class="key">OS      </text><text x="155" y="92" class="value">Linux / Windows</text></g>
-<g class="row" style="animation-delay:90ms"><text x="28" y="127" class="key">Host    </text><text x="155" y="127" class="value">Kathmandu, Nepal</text></g>
-<g class="row" style="animation-delay:180ms"><text x="28" y="162" class="key">Role    </text><text x="155" y="162" class="value">Full-Stack &amp; Backend Developer</text></g>
-<g class="row" style="animation-delay:270ms"><text x="28" y="197" class="key">Stack   </text><text x="155" y="197" class="value">PHP · Laravel · Python · Django</text></g>
-<g class="row" style="animation-delay:360ms"><text x="28" y="232" class="key">Data    </text><text x="155" y="232" class="value">MySQL · PostgreSQL · MongoDB</text></g>
-<g class="row" style="animation-delay:450ms"><text x="28" y="267" class="key">Mobile  </text><text x="155" y="267" class="value">React Native</text></g>
-<g class="row" style="animation-delay:540ms"><text x="28" y="302" class="key">Socials </text><text x="155" y="302" class="value">LinkedIn · GitHub</text></g>
-<g class="row" style="animation-delay:630ms"><text x="28" y="337" class="key">Web     </text><text x="155" y="337" class="value">lexicon-books.onrender.com</text></g>
-<g class="row" style="animation-delay:720ms"><text x="28" y="372" class="key">GitHub  </text><text x="155" y="372" class="value">github.com/rupesh-kumar-sah</text></g>
-<style>.row{opacity:1}.key{fill:#D4AF37;font:bold 15px monospace}.value{fill:#d6d6d6;font:15px monospace}</style>
+<g class="row" style="animation-delay:0ms"><text x="28" y="92" class="key" font-family="Courier New, monospace" font-size="15" font-weight="bold">OS      </text><text x="155" y="92" class="value" font-family="Courier New, monospace" font-size="15">Linux / Windows</text></g>
+<g class="row" style="animation-delay:90ms"><text x="28" y="127" class="key" font-family="Courier New, monospace" font-size="15" font-weight="bold">Host    </text><text x="155" y="127" class="value" font-family="Courier New, monospace" font-size="15">Kathmandu, Nepal</text></g>
+<g class="row" style="animation-delay:180ms"><text x="28" y="162" class="key" font-family="Courier New, monospace" font-size="15" font-weight="bold">Role    </text><text x="155" y="162" class="value" font-family="Courier New, monospace" font-size="15">Full-Stack &amp; Backend Developer</text></g>
+<g class="row" style="animation-delay:270ms"><text x="28" y="197" class="key" font-family="Courier New, monospace" font-size="15" font-weight="bold">Stack   </text><text x="155" y="197" class="value" font-family="Courier New, monospace" font-size="15">PHP · Laravel · Python · Django</text></g>
+<g class="row" style="animation-delay:360ms"><text x="28" y="232" class="key" font-family="Courier New, monospace" font-size="15" font-weight="bold">Data    </text><text x="155" y="232" class="value" font-family="Courier New, monospace" font-size="15">MySQL · PostgreSQL · MongoDB</text></g>
+<g class="row" style="animation-delay:450ms"><text x="28" y="267" class="key" font-family="Courier New, monospace" font-size="15" font-weight="bold">Mobile  </text><text x="155" y="267" class="value" font-family="Courier New, monospace" font-size="15">React Native</text></g>
+<g class="row" style="animation-delay:540ms"><text x="28" y="302" class="key" font-family="Courier New, monospace" font-size="15" font-weight="bold">Socials </text><text x="155" y="302" class="value" font-family="Courier New, monospace" font-size="15">LinkedIn · GitHub</text></g>
+<g class="row" style="animation-delay:630ms"><text x="28" y="337" class="key" font-family="Courier New, monospace" font-size="15" font-weight="bold">Web     </text><text x="155" y="337" class="value" font-family="Courier New, monospace" font-size="15">lexicon-books.onrender.com</text></g>
+<g class="row" style="animation-delay:720ms"><text x="28" y="372" class="key" font-family="Courier New, monospace" font-size="15" font-weight="bold">GitHub  </text><text x="155" y="372" class="value" font-family="Courier New, monospace" font-size="15">github.com/rupesh-kumar-sah</text></g>
+<style>.row{opacity:1}.key{fill:#D4AF37}.value{fill:#d6d6d6}</style>
 </svg>

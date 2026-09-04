@@ -1,10 +1,10 @@
-<div align="center" style="background: #020c1b; border: 1px solid rgba(57,211,83,0.2); border-radius: 18px; padding: 18px 12px; box-shadow: 0 0 22px rgba(57,211,83,0.06);">
+<div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--            1. LIVE TERMINAL — NEOFETCH                     -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<h3><code>The Cipher Stack</code></h3>
+<h2><code>The Cipher Stack</code> · Rupesh Kumar Sah</h2>
 
 <table>
   <tr>
