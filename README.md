@@ -154,6 +154,11 @@
 </tr>
 </table>
 
+<br/>
+<strong>Computer Networking & CCNA</strong>
+<br/>
+<img src="https://img.shields.io/badge/Computer%20Networking-CCNA-1572B6?style=for-the-badge&logo=cisco&logoColor=white&labelColor=000000" />
+
 </div>
 
 ---
