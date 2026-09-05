@@ -272,7 +272,7 @@
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:020c1b,80:041a0e,100:0d3b20&height=160&section=footer&text=%22Write+code+that+works.+Then+write+code+that+lasts.%22&fontColor=39D353" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:020c1b,80:041a0e,100:0d3b20&height=160&section=footer&text=%22Write+code+that+works.+Then+write+code+that+lasts.%22&fontSize=15&fontColor=39d353&fontAlignY=68&animation=fadeIn&reversal=true" />
 
 </div>
 
