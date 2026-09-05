@@ -9,7 +9,7 @@
 <table>
   <tr>
     <td valign="top">
-      <img src="./hxni-ascii.svg" width="370" alt="Rupesh ASCII portrait" />
+      <img src="./hero.png" width="370" alt="Portrait" />
     </td>
     <td valign="top">
       <img src="./info-card.svg" width="490" alt="system info" />
@@ -192,97 +192,4 @@
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                  GITHUB ACHIEVEMENTS                      -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### GitHub Achievements
-<br/>
-
-<table border="0">
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="80" /><br/>
-      <b>Pair Extraordinaire</b><br/>
-      <sub>Co-authored commits</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" /><br/>
-      <b>Pull Shark</b><br/>
-      <sub>Merged pull requests</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" /><br/>
-      <b>YOLO</b><br/>
-      <sub>Merged without review</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="80" /><br/>
-      <b>Starstruck</b><br/>
-      <sub>Repo with 16+ stars</sub>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    CONNECT SECTION                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<h3><code>Socials</code></h3>
-
-<br/>
-
-<a href="https://www.linkedin.com/in/rupeshkumarsah/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
-</a>
-&nbsp;
-<a href="mailto:rsah0123456@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
-</a>
-&nbsp;
-<a href="https://github.com/rupesh-kumar-sah" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Follow-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
-</a>
-&nbsp;
-<a href="https://lexicon-books.onrender.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Live%20Site-39d353?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" />
-</a>
-
-<br/><br/>
-
-<table border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td align="center" valign="middle" width="180">
-
-<strong>Scan my Portfolio</strong>
-
-<img src="https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https://lexicon-books.onrender.com/&color=39d353&bgcolor=020c1b&margin=8" alt="Portfolio QR Code" width="140" />
-
-</td>
-<td align="center" valign="middle">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=4000&pause=1500&color=39D353&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=420&lines=Open+to+new+roles;Let%27s+build+something+beautiful" />
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:020c1b,80:041a0e,100:0d3b20&height=160&section=footer&text=%22Write+code+that+works.+Then+write+code+that+lasts.%22&fontSize=15&fontColor=39d353&fontAlignY=68&animation=fadeIn&reversal=true" />
-
-</div>
-
-<!--
-INSTRUCTIONS:
-- Add generated assets to the repo: hxni-ascii.svg, info-card.svg, contrib-heatmap.svg.
-- If you want, I can also add the helper scripts (prep_photo.py, make_ascii_svg.py, fetch_contributions.py, render_heatmap_svg.py) and a GitHub Actions workflow to auto-update the heatmap daily.
--->
+<meta charset=
