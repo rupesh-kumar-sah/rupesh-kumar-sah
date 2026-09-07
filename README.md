@@ -190,6 +190,12 @@
 
 ---
 
+<br/><br/>
+
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td align="center" valign="middle" width="180">
+
 **Scan my Portfolio**
 
 <img src="https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https://a-talking-cinematic-portfolio-yfq6.vercel.app/&color=39d353&bgcolor=020c1b&margin=8" alt="Portfolio QR Code" width="140" />
