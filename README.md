@@ -190,6 +190,23 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  GITHUB ACHIEVEMENTS                      -->
-<meta charset=
+**Scan my Portfolio**
+
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https://a-talking-cinematic-portfolio-yfq6.vercel.app/&color=39d353&bgcolor=020c1b&margin=8" alt="Portfolio QR Code" width="140" />
+
+</td>
+<td align="center" valign="middle">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=4000&pause=1500&color=39D353&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=52&lines=Thanks+for+stopping+by%21;Let%27s+connect+and+build+together.;Every+great+product+starts+with+a+conversation." alt="Footer typing" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:020c1b,80:041a0e,100:0d3b20&height=160&section=footer&text=%22Write+code+that+works.+Then+write+code+that+lasts.%22&fontSize=15&fontColor=39d353&fontAlignY=68&animation=fadeIn&reversal=true" />
+
+</div>
