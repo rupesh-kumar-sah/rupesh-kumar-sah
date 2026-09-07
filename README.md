@@ -77,8 +77,8 @@
       <sub>Healthcare management and patient operations platform</sub><br/><a href="https://github.com/rupesh-kumar-sah/hospital-real-one">View source repository</a>
     </td>
     <td align="center" width="50%">
-      <a href="https://kheti-pro.vercel.app" target="_blank">
-        <img src="https://image.thum.io/get/width/1000/crop/700/https://kheti-pro.vercel.app" width="100%" />
+      <a href="https://khetinp.onrender.com/" target="_blank">
+        <img src="https://image.thum.io/get/width/1000/crop/700/https://khetinp.onrender.com/" width="100%" />
       </a>
       <br/>
       <b>kheti-pro</b><br/>
