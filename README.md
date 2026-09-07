@@ -4,7 +4,7 @@
 <!--            1. LIVE TERMINAL — NEOFETCH                     -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<h2><code>The Cipher Stack</code> · Rupesh Kumar Sah</h2>
+<h2><code>The Cipher Stack</code> · </h2>
 
 <table>
   <tr>
