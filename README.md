@@ -25,7 +25,7 @@
 <!--            2. CINEMATIC HEADER                             -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:020c1b,60:041a0e,80:072b16,100:0d3b20&height=300&section=header&text=Rupesh%20Kumar%20Sah&fontSize=64&fontColor=39D353" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:020c1b,60:041a0e,80:072b16,100:0d3b20&height=300&section=header&text=Rupesh%20Kumar&fontSize=64&fontColor=39D353" />
 
 <br/>
 
@@ -33,11 +33,11 @@
 &nbsp;
 <img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-39d353?style=for-the-badge&labelColor=000000&logo=checkmarx&logoColor=39d353" />
 &nbsp;
-<img src="https://img.shields.io/badge/BASED-Kathmandu%2C%20Nepal-ffffff?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/BASED-Pokhara%2C%20Nepal-ffffff?style=for-the-badge&labelColor=000000" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=3000&pause=1000&color=39D353&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Full+Stack+Engineer;Building+reliable%2C+scalable+web+%26+mobile+products" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=3000&pause=1000&color=39D353&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Systems+%26+Distributed+Protocols+Engineer;Go+%7C+TypeScript+%7C+Rust+%7C+Docker;Building+high-performance+developer+tooling" />
 
 <br/><br/>
 
