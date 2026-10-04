@@ -1,42 +1,7 @@
 {
   "username": "rupesh-kumar-sah",
-  "updated": "2026-10-03",
+  "updated": "2026-10-04",
   "days": [
-    {
-      "date": "2025-09-28",
-      "count": 4,
-      "level": 1
-    },
-    {
-      "date": "2025-09-29",
-      "count": 2,
-      "level": 1
-    },
-    {
-      "date": "2025-09-30",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-01",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-02",
-      "count": 8,
-      "level": 1
-    },
-    {
-      "date": "2025-10-03",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-04",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-10-05",
       "count": 0,
@@ -1059,7 +1024,7 @@
     },
     {
       "date": "2026-04-27",
-      "count": 3,
+      "count": 2,
       "level": 1
     },
     {
@@ -1264,8 +1229,8 @@
     },
     {
       "date": "2026-06-07",
-      "count": 1,
-      "level": 1
+      "count": 0,
+      "level": 0
     },
     {
       "date": "2026-06-08",
@@ -1854,14 +1819,19 @@
     },
     {
       "date": "2026-10-03",
-      "count": 58,
+      "count": 60,
       "level": 4
+    },
+    {
+      "date": "2026-10-04",
+      "count": 1,
+      "level": 1
     }
   ],
   "metrics": {
-    "total": 449,
-    "current_streak": 11,
-    "longest_streak": 11,
+    "total": 436,
+    "current_streak": 12,
+    "longest_streak": 12,
     "best_day": {
       "date": "2026-09-17",
       "count": 72,
