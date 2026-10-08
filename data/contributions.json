@@ -1,6 +1,6 @@
 {
   "username": "rupesh-kumar-sah",
-  "updated": "2026-10-07",
+  "updated": "2026-10-08",
   "days": [
     {
       "date": "2025-10-05",
@@ -100,7 +100,7 @@
     {
       "date": "2025-10-24",
       "count": 24,
-      "level": 4
+      "level": 3
     },
     {
       "date": "2025-10-25",
@@ -130,7 +130,7 @@
     {
       "date": "2025-10-30",
       "count": 8,
-      "level": 2
+      "level": 1
     },
     {
       "date": "2025-10-31",
@@ -995,7 +995,7 @@
     {
       "date": "2026-04-21",
       "count": 7,
-      "level": 2
+      "level": 1
     },
     {
       "date": "2026-04-22",
@@ -1644,18 +1644,18 @@
     },
     {
       "date": "2026-08-29",
-      "count": 1,
-      "level": 1
+      "count": 0,
+      "level": 0
     },
     {
       "date": "2026-08-30",
       "count": 22,
-      "level": 4
+      "level": 3
     },
     {
       "date": "2026-08-31",
-      "count": 8,
-      "level": 2
+      "count": 5,
+      "level": 1
     },
     {
       "date": "2026-09-01",
@@ -1680,12 +1680,12 @@
     {
       "date": "2026-09-05",
       "count": 16,
-      "level": 3
+      "level": 2
     },
     {
       "date": "2026-09-06",
       "count": 9,
-      "level": 2
+      "level": 1
     },
     {
       "date": "2026-09-07",
@@ -1719,27 +1719,27 @@
     },
     {
       "date": "2026-09-13",
-      "count": 9,
-      "level": 2
+      "count": 4,
+      "level": 1
     },
     {
       "date": "2026-09-14",
-      "count": 6,
+      "count": 5,
       "level": 1
     },
     {
       "date": "2026-09-15",
-      "count": 6,
+      "count": 3,
       "level": 1
     },
     {
       "date": "2026-09-16",
-      "count": 59,
+      "count": 47,
       "level": 4
     },
     {
       "date": "2026-09-17",
-      "count": 72,
+      "count": 68,
       "level": 4
     },
     {
@@ -1750,7 +1750,7 @@
     {
       "date": "2026-09-19",
       "count": 8,
-      "level": 2
+      "level": 1
     },
     {
       "date": "2026-09-20",
@@ -1815,7 +1815,7 @@
     {
       "date": "2026-10-02",
       "count": 25,
-      "level": 4
+      "level": 3
     },
     {
       "date": "2026-10-03",
@@ -1825,7 +1825,7 @@
     {
       "date": "2026-10-04",
       "count": 7,
-      "level": 2
+      "level": 1
     },
     {
       "date": "2026-10-05",
@@ -1839,17 +1839,22 @@
     },
     {
       "date": "2026-10-07",
-      "count": 4,
-      "level": 1
+      "count": 37,
+      "level": 4
+    },
+    {
+      "date": "2026-10-08",
+      "count": 26,
+      "level": 3
     }
   ],
   "metrics": {
-    "total": 443,
-    "current_streak": 1,
+    "total": 473,
+    "current_streak": 2,
     "longest_streak": 13,
     "best_day": {
       "date": "2026-09-17",
-      "count": 72,
+      "count": 68,
       "level": 4
     }
   }
